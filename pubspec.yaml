@@ -1,0 +1,15 @@
+name: ready_mixin
+description: An easy way to provide initialisation behaviour on classes.
+version: 0.1.0
+repository: https://github.com/alexobviously/ready_mixin
+issue_tracker: https://github.com/alexobviously/ready_mixin/issues
+
+environment:
+  sdk: ^3.0.1
+
+dependencies:
+  # path: ^1.8.0
+
+dev_dependencies:
+  lints: ^2.0.0
+  test: ^1.21.0
