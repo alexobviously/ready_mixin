@@ -1,6 +1,6 @@
 name: ready_mixin
 description: An easy way to provide initialisation behaviour on classes.
-version: 0.1.0
+version: 0.1.1
 repository: https://github.com/alexobviously/ready_mixin
 issue_tracker: https://github.com/alexobviously/ready_mixin/issues
 
